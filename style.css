@@ -1,0 +1,36 @@
+body {
+    font-family: 'Barlow', sans-serif;
+     background-color: aliceblue;
+}
+.header_div {
+    background: white;
+    color: lightcoral;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div { 
+    background: lightsalmon;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid wheat;
+}
+.main_div label {
+    background: navajowhite;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera,#result {
+    border: 2px solid navajowhite;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px lightyellow;
+}
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px navajowhite;
+    border: 1px solid;
+}
