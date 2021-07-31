@@ -34,3 +34,24 @@ body {
     box-shadow: 5px 5px 18px navajowhite;
     border: 1px solid;
 }
+.footer_div {
+    margin-bottom: 50px;
+}
+.footer_div h4 {
+    background: antiquewhite;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px seashell;   
+}
+.footer_div img {
+    width: 70px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(1, 0, 2);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(84, 219, 179);
+    line-height: 3;
+    text-align: center;
+}
